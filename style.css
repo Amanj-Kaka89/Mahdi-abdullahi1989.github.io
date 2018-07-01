@@ -1,0 +1,75 @@
+ body {
+	background-color: lightblue;
+
+}
+	
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333333;
+}
+li {
+	float: left;
+}
+li a {
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #111;
+}
+header {
+	height: 400px;
+	background-image: url(http://kurdina.com/wp-content/uploads/2015/03/785294-sanandaj-kurdistan-nature-kurdistan-wonderful.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	padding-top: 50px;
+	}
+	header h1 {
+		font-size: 80px;
+	}
+	header p {
+		font-size: 40px;
+		color: blue;
+	}
+	.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+	 h2 {
+		font-size: 50px;
+	}
+	 p {
+		font-size: 20px;
+		font-family: "Comic Sans MS", cursive, sans-serif;	
+;
+	 }
+	 h3 {
+		 font-size: 50px;
+	 }
+	 
+	footer {
+	height:40px;
+    line-height:50px;
+    background-color: #333333;
+    color:white;
+    text-align: center;
+	}
+		 
+	
+		
+	
+	
+	
+	
+		
+
+	
